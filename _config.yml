@@ -7,11 +7,11 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi there! My name is Anuj Dutt. I'm a machine learning researcher, speaker and a musician based in Cupertino, California, USA. Welcome to my Blog."
+  greetings: "Hi there! My name is Milan Chodavadiya. I'm a machine learning Engineer, speaker and a musician based in Cupertino, California, USA. Welcome to my Blog."
 favicon: 'assets/images/favicon.ico'
 baseurl:
-production_url: https://anujdutt9.github.com/
-disqus: 'anujdutt9-github-io'
+production_url: https://milanchodavadiya19.github.com/
+disqus: 'milanchodavadiya19-github-io'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
 ga_analytics:
@@ -22,15 +22,15 @@ email: anuj.dutt9@gmail.com
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'anujdutt92'
+twitter: 'milanchodavadiya19'
 # facebook: 'username'
-github: 'anujdutt9'
+github: 'milanchodavadiya19'
 # codepen: 'username'
 # dribbble: 'username'
-medium: '@anuj.dutt9'
+medium: '@milanchodavadiya19'
 # instagram: 'username'
 # pinterest: 'username'
-linkedin: 'anujd9'
+linkedin: 'milanchodavadiya19'
 # producthunt: '@username'
 # quora: 'username'
 
