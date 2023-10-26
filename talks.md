@@ -26,4 +26,4 @@ I love to learn from and meet a lot of new people specially in the tech industry
 
 <a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">TensorFlow User Group Chandigarh</a>
 
-<b>Note:</b> *If you are interested in inviting me as a speaker or discussing any topic in general, please feel free to reach out to me by dropping an email at <a href="anuj.dutt9@gmail.com">anuj.dutt9@gmail.com</a> or through the contact form.*
+<b>Note:</b> *If you are interested in inviting me as a speaker or discussing any topic in general, please feel free to reach out to me by dropping an email at <a href="anuj.dutt9@gmail.com">milanchodavadiya19@gmail.com</a> or through the contact form.*
